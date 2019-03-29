@@ -1,0 +1,10 @@
+#Ignore generated fits file
+*.fits
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
