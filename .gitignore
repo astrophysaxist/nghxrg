@@ -1,0 +1,17 @@
+#All buffered files
+*~
+
+#All stackdumps
+*.stackdump
+
+#All compiled files
+*.pyc
+
+#Fits files
+*.fits
+
+#Cache
+__pycache__/
+
+#Notebooks
+.ipynb_checkpoints
